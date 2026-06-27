@@ -13,9 +13,9 @@ I love tinkering and digging through man pages. Happy to spend 5 hours automatin
 
 ## 🎓 I’m currently learning
 
-[![Kubernetes](assets/kubernetes.png)]
-[![Ansible](assets/ansible.png)]
-[![Svenska språket](assets/svenska.png)]
+[<img src="assets/kubernetes.png" height="50px">](https://github.com/kubernetes/kubernetes)
+[<img src="assets/ansible.png" height="50px">](https://github.com/ansible/ansible)
+[<img src="assets/svenska.png" height="50px">](https://komvuxkista.stockholm/vara-utbildningar/svenska-som-andrasprak-grundlaggande-delkurs-4/)
 
 ## 🥷🏻 I know a bit of
 
