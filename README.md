@@ -1,4 +1,4 @@
-## 🙋‍♂️ Hi there, I'm Pavel
+## 👋 Hi there, I'm Pavel
 
 I love tinkering and digging through man pages. Happy to spend 5 hours automating a thing that takes 5 seconds:)
 
@@ -13,11 +13,11 @@ I love tinkering and digging through man pages. Happy to spend 5 hours automatin
 
 ## 🎓 I’m currently learning
 
-[<img src="assets/kubernetes.png" height="50px">](https://github.com/kubernetes/kubernetes)
 [<img src="assets/ansible.png" height="50px">](https://github.com/ansible/ansible)
+[<img src="assets/kubernetes.png" height="50px">](https://github.com/kubernetes/kubernetes)
 [<img src="assets/svenska.png" height="50px">](https://komvuxkista.stockholm/vara-utbildningar/svenska-som-andrasprak-grundlaggande-delkurs-4/)
 
-## 🥷🏻 I know a bit of
+## 🥷 I know a bit of
 
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch](https://img.shields.io/badge/arch-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
@@ -27,8 +27,6 @@ I love tinkering and digging through man pages. Happy to spend 5 hours automatin
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=%23ffdd54)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pakhromov/pakhromov/output/github-snake-dark.svg" />
