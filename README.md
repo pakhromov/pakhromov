@@ -9,12 +9,12 @@ I love tinkering and digging through man pages. Happy to spend 5 hours automatin
 
 ## 🛠️ I've contributed to
 
-[<img src="assets/mpv.png" height="50px">](https://github.com/mpv-player/mpv/pulls?q=author%3Apakhromov)
-[<img src="assets/kitty.svg" height="50px">](https://github.com/kovidgoyal/kitty/pulls?q=author%3Apakhromov)
 [<img src="assets/wayfire.png" height="50px">](https://github.com/WayfireWM/wayfire/pulls?q=author%3Apakhromov)
-[<img src="assets/hyprpicker.png" height="50px">](https://github.com/hyprwm/hyprpicker/pulls?q=author%3Apakhromov)
+[<img src="assets/kitty.svg" height="50px">](https://github.com/kovidgoyal/kitty/pulls?q=author%3Apakhromov)
+[<img src="assets/mpv.png" height="50px">](https://github.com/mpv-player/mpv/pulls?q=author%3Apakhromov)
 [<img src="assets/yazi.png" height="50px">](https://github.com/AnirudhG07/awesome-yazi/pulls?q=author%3Apakhromov)
 [<img src="assets/sublime_text.png" height="50px">](https://github.com/sublimehq/package_control_channel/pulls?q=author%3Apakhromov)
+[<img src="assets/hyprpicker.png" height="50px">](https://github.com/hyprwm/hyprpicker/pulls?q=author%3Apakhromov)
 
 ## 🎓 I’m currently learning
 
